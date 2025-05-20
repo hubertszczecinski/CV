@@ -1,10 +1,11 @@
 # CV
 
 
-REPOZYTORIUM ZAWIERA MOJE PROJEKTY:
+This repository contains my projects:
 
-APTEKA - PROJEKT NAPISANY W C++ - PROGRAMOWANIE OBIEKTOWE - ZAPIS DO BLIKU
+Pharmacy – A project written in C++ using object-oriented programming with file saving functionality.
 
-JAVA_GAME_OF_LIFE - PROJEKT NAPISANY W JAVA - PROGRAMOWANIE KOMPONENTOWE + GUI + ZAPIS DO BAZY DANYCH 
+Java_Game_Of_Life – A project written in Java using component-based programming, with GUI and database saving features.
 
-PYTHON - PROJEKT NAPISANY W JEZYKU PYTHON - ANALIZA ORAZ KLASTROWANIE ZBIORU DANYCH ZA POMOCA ALGORYTMOW k-NN ORAZ k-MEANS 
+Python – A project written in Python involving data analysis and clustering using the k-NN, linear regression and k-means algorithms.
+
